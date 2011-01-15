@@ -1,0 +1,23 @@
+# Priortize 1-5 to change the odds. 1 is highest.
+Monks Cafe:
+  priority: 1
+China Panda:
+  priority: 2
+The Chicken Roaster:
+  priority: 4
+Hunan:
+  priority: 4
+Babus Dream Cafe:
+  priority: 4
+Hop Sings:
+  priority: 5
+Pisanos:
+  priority: 4
+Reggies:
+  priority: 4
+Pfeiffers:
+  priority: 5
+Papaya King:
+  priority: 4
+Mendys:
+  priority: 4

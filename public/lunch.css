@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.2em;
+  color: #222;
+  background-color: #ccc;
+}
+
+img {
+  -ms-interpolation-mode:bicubic;
+}
+
+#content {
+  margin: 10px 0 0 20px;
+}
+
+h1 {
+  font-family: “Nimbus Sans L”, Helvetica, Arial, Verdana, sans-serif;
+}
+
+ul {
+  float: left;
+}
+
+li {
+  list-style: none;
+  margin-left: -30px;
+  padding-right: 20px;
+}
+
+.priority {
+  font-size: 0.8em;
+  color: #888;
+}
+
+.highlight {
+  background-color: #bbb;
+}
