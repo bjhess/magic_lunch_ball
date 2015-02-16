@@ -1,2 +1,2 @@
-require 'lunch'
+require './lunch'
 run Sinatra::Application
